@@ -1,0 +1,30 @@
+{
+  "accountAssociation": {
+    "header": "",
+    "payload": "",
+    "signature": ""
+  },
+  "frame": {
+    "version": "1",
+    "name": "MemoryVault",
+    "subtitle": "Built with Zara",
+    "description": "MemoryVault is a Base Mini App built with Zara.",
+    "iconUrl": "https://0co.to/images/zara-2.png",
+    "homeUrl": "https://6fb155ac2c3344cfada18450b266375d-njjl.vercel.app",
+    "splashImageUrl": "https://6fb155ac2c3344cfada18450b266375d-njjl.vercel.app/splash.png",
+    "splashBackgroundColor": "#000000",
+    "heroImageUrl": "https://6fb155ac2c3344cfada18450b266375d-njjl.vercel.app/image.png",
+    "tagline": "MemoryVault",
+    "screenshotUrls": [
+      "https://6fb155ac2c3344cfada18450b266375d-njjl.vercel.app/screenshot.png",
+      "https://6fb155ac2c3344cfada18450b266375d-njjl.vercel.app/screenshot.png"
+    ],
+    "primaryCategory": "social",
+    "tags": [
+      "base",
+      "miniapp",
+      "onchainkit"
+    ],
+    "webhookUrl": "https://6fb155ac2c3344cfada18450b266375d-njjl.vercel.app/api/webhook"
+  }
+}
